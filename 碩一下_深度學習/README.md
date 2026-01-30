@@ -20,3 +20,6 @@ Implements a conditional Denoising Diffusion Probabilistic Model to generate mul
 
 ## Lab 7 – Policy-Based Reinforcement Learning
 Implements A2C and PPO algorithms to solve Pendulum and Walker2d environments and evaluates multiple optimization techniques for improving PPO performance.
+
+## Fianl Project: Multi-Gate Stock Transformer
+A transformer-based model for stock price prediction that leverages expanded market, industry, and news features to improve gating and forecasting performance over the original MASTER model.
